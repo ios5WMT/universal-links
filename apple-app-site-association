@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "285MZWZW6M.com.wmt.ios.demo",
-				"paths": [ "/deeplink.php*"]
+				"paths": [ "/deeplink.*"]
 			}
 		]
 	}
