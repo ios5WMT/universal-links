@@ -3,12 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "285MZWZW6M.com.wmt.ios.demo",
-				"paths": [ "*"]
-			},
-			{
 				"appID": "8A9J9A9D4D.com.letstango.ios",
-				"paths": [ "*"]
+				"paths": ["*"]
 			}
 		]
 	}
